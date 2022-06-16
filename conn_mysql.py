@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 # Python manipulates MySQL CRUD operations
 
+
+
 import pymysql
 
 db = pymysql.connect(host = 'localhost',
